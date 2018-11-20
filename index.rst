@@ -10,9 +10,8 @@ Welcome to Elmar's Python Blog's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   Django/DjangoSetupChecklist
-
-
+   Django/InitialSetup
+   Django/LoginPage
 
 Indices and tables
 ==================

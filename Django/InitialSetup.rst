@@ -60,7 +60,7 @@ Getting started
     http://127.0.0.1:8000/admin/
 
 
-Configure Project
+Configure project
 -----------------
 
 * Setup Git:
@@ -133,8 +133,8 @@ Configure Project
 
     These variables will be used in the file `urls.py` files for routing.
 
-Basic App
----------
+Base app
+--------
 
 * Start app::
 
@@ -230,7 +230,7 @@ Basic App
     href="{% url 'base:index' %}
 
 
-Enable Media Uploads
+Enable media uploads
 --------------------
 
 * Install image library::

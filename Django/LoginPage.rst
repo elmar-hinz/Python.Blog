@@ -27,5 +27,5 @@ Secure passwords
     ]
 
 
-Login Page
+Login page
 ----------
